@@ -55,7 +55,7 @@ This work supports the use of hybrid deep learning approaches to enhance data in
 | Naive Bayes            | 92.53        | 80.90      | 88.96        | <0.001       |
 
 ### Visualizations
-![Accuracy Comparison](<img width="1481" height="740" alt="Accuracy" src="https://github.com/user-attachments/assets/fd91c272-ef70-439f-8017-bb6367cdf5a5" />)
-![Recall Comparison](results/recall_plot.png)
-![F1-Score Comparison](results/f1_plot.png)
-![Latency Comparison](results/latency_plot.png)
+<img src="results/accuracy_plot.png" alt="Accuracy Comparison" width="800"/>
+<img src="results/recall_plot.png" alt="Recall Comparison" width="800"/>
+<img src="results/f1_plot.png" alt="F1-Score Comparison" width="800"/>
+<img src="results/latency_plot.png" alt="Latency Comparison" width="800"/>
