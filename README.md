@@ -15,7 +15,7 @@ kagglehub
 # Comparative Study of SQL Injection Detection Models
 
 **University Project – Database Management Systems (SEG2102)**  
-**Group G29**  
+**Group 29**  
 **Members:** Then Ye Herng (22072466), Tan Kah Lok (24009441), Aw Jun Le (23126048)  
 
 ## Project Overview
