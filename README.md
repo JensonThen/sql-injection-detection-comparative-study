@@ -59,3 +59,4 @@ This work supports the use of hybrid deep learning approaches to enhance data in
 <img src="results/recall_plot.png" alt="Recall Comparison" width="800"/>
 <img src="results/f1_plot.png" alt="F1-Score Comparison" width="800"/>
 <img src="results/latency_plot.png" alt="Latency Comparison" width="800"/>
+<img src="![Uploading Accuracy.png…]()"/>
