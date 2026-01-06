@@ -4,7 +4,7 @@ Comparison of SQL Injection detection using 12 ML/DL models (CNN-LSTM, BiLSTM, R
 ## Accessible By
 Code can be run by Visual Studio Code & Google Colab\
 Dataset from Kaggle (Access Link) : https://www.kaggle.com/datasets/syedsaqlainhussain/sql-injection-dataset
-# requirements.txt Content
+# Requirements.txt Content
 pandas\
 numpy\
 matplotlib\
